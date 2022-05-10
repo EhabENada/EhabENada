@@ -9,5 +9,8 @@ I'm Ehab Nada, a self-motivated tech enthusiast, SAP HCM Consultant and Python d
 </h4>
 
  ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python)
+ - <img src="https://img.shields.io/badge/SAP HCM-ff69b4" alt="SAP HCM" />
+ - <img src="https://img.shields.io/badge/SAP Successfactors-ff69b4" alt="SAP Successfactors" />
+ - <img src="https://img.shields.io/badge/Python-ff69b4" alt="Python" />
+ - <img src="https://img.shields.io/badge/ABAP Debugging-ff69b4" alt="ABAP Debugging" />
  - Something new everyday! 
