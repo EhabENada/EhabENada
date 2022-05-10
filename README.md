@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**EhabENada/EhabENada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Ehab Nada, a self-motivated tech enthusiast, SAP HCM Consultant and Python developer.
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 SAP HCM Consultant <a href="">@Elabay Group</a> | 💬 connect <a href="https://www.linkedin.com/in/ehab-nada/">@Ehab Nada</a>
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### :books: Learning:
+ - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python)
+ - Something new everyday! 
